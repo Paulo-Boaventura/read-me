@@ -1,6 +1,7 @@
 ### Olá eu sou o Paulo!!!
 
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas na UDF
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas
+- Em formação de backend + IA
 
 <div>
 <a href="https://github.com/Paulo-Boaventura">
